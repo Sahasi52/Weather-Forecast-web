@@ -1,2 +1,3 @@
-# WeatherForecast-website
-A weather-forecast website
+# WeatherForecast
+
+A HTML, CSS, JavaScript project.
