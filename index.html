@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Weather-Forecast</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="weather-forecast-container">
+      <form class="weatherForm">
+        <input type="text" class="cityInput" placeholder="Search for a city" />
+        <button type="submit">&#128269;</button>
+      </form>
+      <h1 id="cityDisplay" class="cityDisplay">--</h1>
+      <p id="temperatureDisplay" class="temperatureDisplay">0°C</p>
+      <p id="humidityDisplay" class="humidityDisplay">Humidity: 0%</p>
+      <p id="descriptionDisplay" class="descriptionDisplay">Aa</p>
+      <p id="weatherEmoji" class="weatherEmoji">🌤️</p>
+      <!-- <p id="errorDisplay" class="errorDisplay" style="display: none">
+        Please enter a city name!
+      </p> -->
+    </div>
+    <script src="index.js"></script>
+  </body>
+</html>
