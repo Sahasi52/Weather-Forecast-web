@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(45deg, hsl(348, 83%, 47%), hsl(300, 100%, 25%));
+  background: linear-gradient(90deg, hsl(275, 25%, 95%), hsl(300, 50%, 85%));
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -12,7 +12,7 @@ body {
 }
 .weather-forecast-container {
   font-family: cursive;
-  background: linear-gradient(90deg, hsl(348, 83%, 47%), hsl(300, 100%, 25%));
+  background: linear-gradient(90deg, hsl(275, 50%, 65%), hsl(300, 25%, 55%));
   box-shadow: 2px 2px 5px black;
   padding: 25px;
   border-radius: 10px;
