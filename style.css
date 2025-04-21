@@ -8,7 +8,7 @@ body {
   flex-direction: column;
   align-items: center;
   overflow: hidden;
-  margin: 0;
+  margin: 70;
 }
 .weather-forecast-container {
   font-family: cursive;
@@ -97,7 +97,7 @@ p {
 @media (max-width: 799px) {
   .weather-forecast-container {
     padding: 100px;
-    margin-top: 0px;
+    margin-top: 110px;
     height: 525px;
   }
   .weatherForm {
@@ -142,7 +142,7 @@ p {
 @media (max-width: 477px) {
   .weather-forecast-container {
     padding: 25px;
-    margin-top: 0px;
+    margin-top: 110px;
     height: 535px;
   }
   .weatherForm {
