@@ -20,7 +20,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-top: 70px;
+  margin-top: 0px;
 }
 .weatherForm {
   margin: 10px;
@@ -97,7 +97,7 @@ p {
 @media (max-width: 799px) {
   .weather-forecast-container {
     padding: 100px;
-    margin-top: 110px;
+    margin-top: 0px;
     height: 525px;
   }
   .weatherForm {
@@ -142,7 +142,7 @@ p {
 @media (max-width: 477px) {
   .weather-forecast-container {
     padding: 25px;
-    margin-top: 110px;
+    margin-top: 0px;
     height: 535px;
   }
   .weatherForm {
