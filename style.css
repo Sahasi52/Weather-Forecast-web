@@ -98,7 +98,7 @@ p {
 @media (max-width: 799px) {
   .weather-forecast-container {
     padding: 100px;
-    margin-top: 110px;
+    margin-top: 80px;
     height: 500px;
   }
   .weatherForm {
@@ -143,7 +143,7 @@ p {
 @media (max-width: 477px) {
   .weather-forecast-container {
     padding: 25px;
-    margin-top: 110px;
+    margin-top: 80px;
     height: 535px;
   }
   .weatherForm {
@@ -156,7 +156,7 @@ p {
     margin: 5px;
   }
   button[type="submit"] {
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     border-radius: 25px;
   }
   h1 {
