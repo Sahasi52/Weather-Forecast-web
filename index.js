@@ -87,7 +87,7 @@ function getWeatherEmoji(weatherId) {
 function displayError(message) {
   setTimeout(() => {
     alert(message);
-  }, 3000);
+  }, 2000);
   // const errorDisplay = document.createElement("p");
   // errorDisplay.textContent = message;
   // errorDisplay.classList.add("errorDisplay");
